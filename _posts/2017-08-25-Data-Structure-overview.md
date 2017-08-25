@@ -4,6 +4,7 @@ title: 笔记：数据结构概述
 time: 
 location: 上海
 pulished: true
+excerpt_separator:"###"
 ---
 ###数据结构的背景？
 
