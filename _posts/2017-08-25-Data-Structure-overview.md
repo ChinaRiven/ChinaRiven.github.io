@@ -1,7 +1,7 @@
 ---
-layout: post_layout
-title: 笔记：数据结构概述
-time: 2017年8月25日 星期五
+layout:post_layout
+title:笔记：数据结构概述
+time:2017年8月25日
 location: 上海
 pulished: true
 ---
