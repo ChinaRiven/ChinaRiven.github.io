@@ -1,7 +1,7 @@
 ---
 layout: post_layout
 title: Data Structure overview
-time: 
+time: 2017年08月25日 星期五
 location: 上海
 pulished: true
 excerpt_separator: "```"
